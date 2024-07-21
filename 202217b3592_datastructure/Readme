@@ -1,0 +1,21 @@
+﻿Tools:
+
+1. GCC
+2. GDB
+3. Bison
+4. Flex
+5. Codeblock
+6. Bash
+7. Git
+
+CAUTION:
+- This lab resets to it's original state every time it is started. 
+
+- Any installations performed by the user will not be lost.  
+
+- If you have any data that is needed for later, ensure that it is copied to the Persistent_Folder drive before Stopping the lab.
+ 
+- Lab resources for this course, if any, will be shared in the "Course_Resources" drive.
+
+- If the machine malfunctions / gets into a corrupt state, Stop the machine from the lab control panel.  Then, Start the machine after Stop is complete (Note: Do not do a restart.  You must perform a Stop and Start) caution: Move files you may need for later, to Persistent_Folder.
+
